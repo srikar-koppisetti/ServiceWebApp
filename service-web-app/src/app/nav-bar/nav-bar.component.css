@@ -1,22 +1,8 @@
-.container {
-    max-width: 960px;
-  }
 
-.site-header {
-    background-color: #3F51B5;
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    /*backdrop-filter: saturate(180%) blur(20px);*/
-  }
-  .site-header a {
-    color: #C5CAE9;
-    transition: ease-in-out color .15s;
-  }
-  .site-header a:hover {
-    color: #E8EAF6;
-    text-decoration: none;
-  }
+.header h2, a {
+  color: #fff;
+}
 
-.site-header a.logo {
-    font-size: 200%;
-    color: #fff;
-  }
+.header-nav a{
+  color: #fff;
+}
